@@ -1,0 +1,11 @@
+{
+  "generator-ptz-react": {
+    "promptValues": {
+      "appname": "amotodo-react",
+      "githubAuthor": "amodev",
+      "codecovToken": "12376e74-8062-4478-a6ee-2d3244f51d64",
+      "graphqlServerUrl": "http://localhost:3011/graphql",
+      "graphqlSchemaUrl": "http://localhost:3011/public/schema.json"
+    }
+  }
+}
